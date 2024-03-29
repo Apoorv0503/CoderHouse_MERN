@@ -6,9 +6,13 @@ For Demo of this project please follow this Google Doc:
 https://docs.google.com/document/d/127T_EyIPkADqkuN6Ah6XhziLKWitYiWVtwMJGJrLU3Y/edit?usp=sharing
 
 Features:
-• Registration 
+
+• Registration
+
     1. Registration is done using the OTP system. This is sent using the phone number or email address. 
+    
     2. Need to collect following info when registering.
+    
          1. Full name
          
          2. Profile picture
