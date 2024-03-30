@@ -2,10 +2,23 @@
 Below are some of the implemented interface and the remaining features will be updated in future.
 
 # Live version:
+
 For Demo of this project please follow this Google Doc: 
+
 https://docs.google.com/document/d/127T_EyIPkADqkuN6Ah6XhziLKWitYiWVtwMJGJrLU3Y/edit?usp=sharing
 
-Features:
+<br> <br>
+<h2> Framing </h2>
+<img src="https://raw.githubusercontent.com/pranjalshikhar/codersHouse/main/White%20Board%20Framing.jpg" />
+<br> <br>
+<h2> Authentication and OTP </h2>
+<img src="https://raw.githubusercontent.com/pranjalshikhar/codersHouse/main/Authentication%20and%20OTP.jpg" />
+<br> <br>
+<h2> WebRTC Setup </h2>
+<img src="https://raw.githubusercontent.com/pranjalshikhar/codersHouse/main/WebRTC%20Setup.jpg" />
+<br> <br>
+
+# Features:
 
 • Registration
 
