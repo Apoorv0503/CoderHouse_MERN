@@ -21,6 +21,7 @@ Features:
             
 
 • Rooms
+
     1. Authenticated user can see list of available public rooms.
     
     2. User can filter the rooms using search box
